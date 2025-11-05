@@ -16,8 +16,4 @@ Note: For LND operations like payments, you need an admin macaroon with write pe
 
 - Generates NWC URI for external wallet connection.
 - Handles NIP-47 requests: pay_invoice, get_balance, make_invoice, lookup_invoice, list_transactions, get_info.
-<<<<<<< HEAD
 - Connects to LND for Lightning operations.
-=======
-- Connects to LND for Lightning operations.
->>>>>>> d024489 (feat: build script that connect LND node with external wallets following NIP-47 protocol)
