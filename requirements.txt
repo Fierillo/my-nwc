@@ -1,0 +1,3 @@
+python-nostr
+pyln-client
+websocket-client
